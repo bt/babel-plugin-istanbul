@@ -10,7 +10,7 @@
   ],
   "dependencies": {
     "find-up": "^1.1.2",
-    "istanbul-lib-instrument": "git://github.com/bt/istanbul-lib-instrument.git",
+    "istanbul-lib-instrument": "git://github.com/bt/istanbul-lib-instrument.git#git-build",
     "test-exclude": "^2.1.1"
   },
   "devDependencies": {
